@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<project name="nuevo" company="nuevo" webLink="no" view-date="16/06/2005" view-zoom="1" version="1.11 Preview 1">
+<!-- -->    <description> no </description>
+<tasks color="#8cb6ce">
+
+<task id="3225" name="[1] 3225 M 2-3-7728" color="#8cb6ce" meeting="false" start="28/05/2005" duration="120" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: RALPH LAUREN CHILDRENSWEAR
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: FOLD OVER LACE TRIM
+</notes>
+<task id="3225001" name="08:39-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-24 20:25</notes> </task>
+<task id="3225002" name="10:35-(322) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-25 07:07</notes> </task>
+<task id="3225003" name="10:47-(15) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-25 10:12</notes> </task>
+<task id="3225004" name="11:02-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-01 13:14</notes> </task>
+<task id="3225005" name="19:04-(1560) DLLO COL CALCETIN ALGODON (Color 2)  (S.S. 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3225006" name="14:54-(1066) TENIR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="23/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3225007" name="08:40-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="24/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3225008" name="09:00-(150) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="24/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3250" name="[2] 3250 M 2-3-7734" color="#8cb6ce" meeting="false" start="28/05/2005" duration="126" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: RALPH LAUREN CHILDRENSWEAR
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: MERCERIZED ANKLET
+</notes>
+<task id="3250001" name="11:59-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-25 19:52</notes> </task>
+<task id="3250002" name="14:10-(225) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-26 15:07</notes> </task>
+<task id="3250003" name="19:04-(1560) DLLO COL CALCETIN ALGODON (Color 2)  (S.S. 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3250004" name="19:44-(11) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-05-26 16:03</notes> </task>
+<task id="3250005" name="19:55-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-01 13:14</notes> </task>
+<task id="3250006" name="21:16-(1066) TENIR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3250007" name="15:02-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3250008" name="15:22-(60) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3250009" name="15:02-(5) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/09/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3407" name="[3] 3407 M 2-3-9410" color="#8cb6ce" meeting="false" start="25/05/2005" duration="134" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: CLIENTES SIN CODIFICAR
+EJECUTIVA: AMALIA ISAZA RESTREPO
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: BASICO CANALE 2X1
+</notes>
+<task id="3407001" name="14:06-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="25/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-05 05:59</notes> </task>
+<task id="3407002" name="16:24-(268) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="25/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-08 12:28</notes> </task>
+<task id="3407003" name="21:05-(13) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="25/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-08 15:59</notes> </task>
+<task id="3407004" name="11:46-(41) SUAVIZAR NYLON (Color 0)   {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 03:27</notes> </task>
+<task id="3407005" name="12:27-(41) SUAVIZAR NYLON (Color 90)   {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 03:27</notes> </task>
+<task id="3407006" name="13:08-(20) PLANCHA NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 15:44</notes> </task>
+<task id="3407007" name="09:43-(8) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="05/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3573" name="[4] 3573 M 2-3-9516" color="#8cb6ce" meeting="false" start="28/05/2005" duration="147" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: MICROFIBER RIB
+</notes>
+<task id="3573001" name="07:03-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-02 10:48</notes> </task>
+<task id="3573002" name="15:23-(884) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-02 18:07</notes> </task>
+<task id="3573003" name="19:20-(42) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="01/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-02 19:48</notes> </task>
+<task id="3573004" name="18:00-(440) DESARROLLO COL CALCETIN NYLON (Color 0)  (S.S. 1)   {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:54</notes> </task>
+<task id="3573005" name="18:00-(440) DESARROLLO COL CALCETIN NYLON (Color 32)  (S.S. 2)   {APROBADA}" color="#ffff00" meeting="false" start="28/05/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:54</notes> </task>
+<task id="3573006" name="09:20-(440) DESARROLLO COL CALCETIN NYLON (Color 90)  (S.S. 3)   {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:54</notes> </task>
+<task id="3573007" name="09:20-(440) DESARROLLO COL CALCETIN NYLON (Color 137)  (S.S. 4)   {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:55</notes> </task>
+<task id="3573008" name="12:40-(440) DESARROLLO COL CALCETIN NYLON (Color 247)  (S.S. 5)   {APROBADA}" color="#ffff00" meeting="false" start="02/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:55</notes> </task>
+<task id="3573009" name="13:48-(440) DESARROLLO COL CALCETIN NYLON (Color 252)  (S.S. 6)   {APROBADA}" color="#ffff00" meeting="false" start="02/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 07:55</notes> </task>
+<task id="35730010" name="13:02-(446) TENIR NYLON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730011" name="16:04-(446) TENIR NYLON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730012" name="20:28-(446) TENIR NYLON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730013" name="22:08-(446) TENIR NYLON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730014" name="23:30-(446) TENIR NYLON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730015" name="03:54-(446) TENIR NYLON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730016" name="20:28-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="20/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35730017" name="07:30-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="21/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3577" name="[5] 3577 M 2-3-9519" color="#8cb6ce" meeting="false" start="31/05/2005" duration="147" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: FOLK TEXTURE
+</notes>
+<task id="3577001" name="08:14-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-01 18:35</notes> </task>
+<task id="3577002" name="10:31-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 02:08</notes> </task>
+<task id="3577003" name="14:41-(884) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="31/05/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 02:08</notes> </task>
+<task id="3577004" name="21:16-(42) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="01/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 02:09</notes> </task>
+<task id="3577005" name="20:52-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 15:53</notes> </task>
+<task id="3577006" name="19:47-(1560) DLLO COL CALCETIN ALGODON (Color 0)  (S.S. 1)   {APROBADA}" color="#ffff00" meeting="false" start="21/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 21:20</notes> </task>
+<task id="3577007" name="13:48-(1560) DLLO COL CALCETIN ALGODON (Color 32)  (S.S. 2)   {PROCESO}" color="#3366ff" meeting="false" start="02/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3577008" name="23:04-(1560) DLLO COL CALCETIN ALGODON (Color 90)  (S.S. 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="20/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3577009" name="13:48-(1560) DLLO COL CALCETIN ALGODON (Color 137)  (S.S. 4)   {PROCESO}" color="#3366ff" meeting="false" start="02/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770010" name="13:48-(1560) DLLO COL CALCETIN ALGODON (Color 247)  (S.S. 5)   {PROCESO}" color="#3366ff" meeting="false" start="02/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770011" name="13:48-(1560) DLLO COL CALCETIN ALGODON (Color 252)  (S.S. 6)   {PROCESO}" color="#3366ff" meeting="false" start="02/06/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770012" name="12:43-(1066) TENIR ALGODON (Color 0)   {APROBADA}" color="#ffff00" meeting="false" start="08/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 06:04</notes> </task>
+<task id="35770013" name="15:08-(1066) TENIR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770014" name="15:46-(1066) TENIR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770015" name="15:47-(1066) TENIR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770016" name="17:06-(1066) TENIR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770017" name="17:08-(1066) TENIR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="35770018" name="10:54-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="24/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3679" name="[6] 3679 M 2-3-9584" color="#8cb6ce" meeting="false" start="02/06/2005" duration="152" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: CLIENTES SIN CODIFICAR
+EJECUTIVA: CAROLINA MEJIA GARCES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: CHENILLE SOCK
+</notes>
+<task id="3679001" name="13:25-(200) DESARROLLO TÉCNICO - TEJER  {PROCESO}" color="#3366ff" meeting="false" start="02/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679002" name="15:03-(214) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679003" name="11:22-(11) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679004" name="11:10-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679005" name="12:53-(1066) TENIR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679006" name="11:12-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3679007" name="11:26-(30) COLOCAR SESGO  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3701" name="[7] 3701 M 2-3-9585" color="#8cb6ce" meeting="false" start="03/06/2005" duration="151" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: SCALLOPED RUFFLE
+</notes>
+<task id="3701001" name="07:44-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="03/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-10 04:25</notes> </task>
+<task id="3701002" name="07:44-(884) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="03/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-11 00:27</notes> </task>
+<task id="3701003" name="10:27-(42) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="11/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-11 10:04</notes> </task>
+<task id="3701004" name="11:09-(6) MOJAR-CENTRIFUGAR  {APROBADA}" color="#ffff00" meeting="false" start="11/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 14:40</notes> </task>
+<task id="3701005" name="11:15-(26) PREHORMAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="11/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 20:20</notes> </task>
+<task id="3701006" name="10:24-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 0)  (S.S. 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3701007" name="10:27-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 18)  (S.S. 2)   {PROCESO}" color="#3366ff" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3701008" name="10:27-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 28)  (S.S. 3)   {PROCESO}" color="#3366ff" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3701009" name="10:24-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 90)  (S.S. 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010010" name="10:27-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 135)  (S.S. 5)   {PROCESO}" color="#3366ff" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010011" name="10:27-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 440)  (S.S. 6)   {PROCESO}" color="#3366ff" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010012" name="13:36-(560) TEÑIR TACTEL (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010013" name="14:14-(560) TEÑIR TACTEL (Color 18)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010014" name="15:57-(560) TEÑIR TACTEL (Color 28)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010015" name="00:56-(560) TEÑIR TACTEL (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010016" name="01:34-(560) TEÑIR TACTEL (Color 135)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010017" name="02:28-(560) TEÑIR TACTEL (Color 440)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010018" name="00:56-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37010019" name="07:30-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3719" name="[8] 3719 M 2-3-9600" color="#8cb6ce" meeting="false" start="04/06/2005" duration="151" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: ROUCHED
+</notes>
+<task id="3719001" name="07:39-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="04/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 13:48</notes> </task>
+<task id="3719002" name="07:39-(949) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="04/06/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-10 05:23</notes> </task>
+<task id="3719003" name="14:30-(45) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="11/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-10 15:33</notes> </task>
+<task id="3719004" name="15:15-(26) PREHORMAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="11/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 20:20</notes> </task>
+<task id="3719005" name="10:24-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 0)  (S.S. 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3719006" name="10:24-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 18)  (S.S. 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3719007" name="10:59-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 28)  (S.S. 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3719008" name="15:44-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 90)  (S.S. 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3719009" name="15:44-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 135)  (S.S. 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190010" name="15:44-(560) DESARROLLO COLOR CALCETIN TACTEL (Color 440)  (S.S. 6)   {PROGRAMADA}" color="#33cc00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190011" name="10:16-(560) TEÑIR TACTEL (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190012" name="10:54-(560) TEÑIR TACTEL (Color 18)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190013" name="11:48-(560) TEÑIR TACTEL (Color 28)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190014" name="11:48-(560) TEÑIR TACTEL (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190015" name="12:37-(560) TEÑIR TACTEL (Color 135)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190016" name="16:10-(560) TEÑIR TACTEL (Color 440)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190017" name="19:36-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="37190018" name="07:30-(27) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3730" name="[9] 3730 M 2-3-9411" color="#8cb6ce" meeting="false" start="31/10/2005" duration="2" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: HOT SOX
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: LISO HOT SOX
+</notes>
+<task id="3730001" name="01:00-(1066) TENIR ALGODON (Color 143)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730002" name="02:40-(1066) TENIR ALGODON (Color 408)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730003" name="11:02-(1066) TENIR ALGODON (Color 505)   {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730004" name="18:46-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730005" name="19:06-(120) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="31/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730006" name="07:30-(2) MOTILAR 1 HEBRA  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3730007" name="07:30-(9) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3769" name="[10] 3769 M 2-3-9616" color="#8cb6ce" meeting="false" start="07/06/2005" duration="77" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: CRYSTAL HOSIERY-GAP/USA
+EJECUTIVA: NATALIA RESTREPO JARAMILLO
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: STRIPES GAP
+</notes>
+<task id="3769001" name="14:55-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="07/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 15:53</notes> </task>
+<task id="3769002" name="14:55-(145) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="07/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 16:13</notes> </task>
+<task id="3769003" name="13:17-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="13/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 14:58</notes> </task>
+<task id="3769004" name="13:24-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="13/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 15:01</notes> </task>
+<task id="3769005" name="13:18-(61) SUAVIZAR ALGODON (Color 1)   {APROBADA}" color="#ffff00" meeting="false" start="20/08/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 15:10</notes> </task>
+<task id="3769006" name="15:43-(20) PLANCHA NORMAL  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3769007" name="16:03-(33) COLOCAR ANTIDESLIZANTE  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3769008" name="09:21-(5) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="22/08/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3814" name="[11] 3814 M 2-3-9133" color="#8cb6ce" meeting="false" start="09/06/2005" duration="19" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: KIT REGALO
+</notes>
+<task id="3814001" name="03:47-(145) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="09/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-10 00:07</notes> </task>
+<task id="3814002" name="13:44-(7) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3814003" name="15:33-(10) THUMBLER - SUAVIZADO  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3814004" name="15:41-(20) PLANCHAR TUBULAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3815" name="[12] 3815 M 2-3-9132" color="#8cb6ce" meeting="false" start="09/06/2005" duration="146" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: KIT REGALO
+</notes>
+<task id="3815001" name="04:31-(145) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="09/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-10 16:17</notes> </task>
+<task id="3815002" name="15:43-(10) THUMBLER - SUAVIZADO  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3815003" name="08:30-(2) PULIR 3 HEBRAS  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3825" name="[13] 3825 M 2-3-9652" color="#8cb6ce" meeting="false" start="09/06/2005" duration="146" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: CRYSTAL HOSIERY-GAP/USA
+EJECUTIVA: NATALIA RESTREPO JARAMILLO
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: STRIPES GAP
+</notes>
+<task id="3825001" name="14:35-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="09/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 23:15</notes> </task>
+<task id="3825002" name="14:35-(145) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="09/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-09 23:16</notes> </task>
+<task id="3825003" name="07:11-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 14:59</notes> </task>
+<task id="3825004" name="07:18-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 15:01</notes> </task>
+<task id="3825005" name="08:41-(61) SUAVIZAR ALGODON (Color 1)   {APROBADA}" color="#ffff00" meeting="false" start="23/08/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-13 15:11</notes> </task>
+<task id="3825006" name="16:05-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3825007" name="16:25-(33) COLOCAR ANTIDESLIZANTE  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3825008" name="08:41-(5) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3839" name="[14] 3839 M 2-3-9660" color="#8cb6ce" meeting="false" start="10/06/2005" duration="18" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: RALPH LAUREN CHILDRENSWEAR
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: MANILLA POLO
+</notes>
+<task id="3839001" name="00:05-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="10/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 15:48</notes> </task>
+<task id="3839002" name="15:06-(402) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 10:25</notes> </task>
+<task id="3839003" name="15:02-(19) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3839004" name="16:35-(10) THUMBLER - SUAVIZADO  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3839005" name="16:41-(150) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3913" name="[15] 3913 M 2-3-9686" color="#8cb6ce" meeting="false" start="16/06/2005" duration="142" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: HOT SOX
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: RIB 2X1 EXTRA LONG
+</notes>
+<task id="3913001" name="12:14-(200) DESARROLLO TÉCNICO - TEJER  {PROCESO}" color="#3366ff" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913002" name="15:03-(225) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913003" name="11:36-(11) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913004" name="20:12-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913005" name="14:38-(1066) TENIR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913006" name="20:21-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913007" name="20:41-(60) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913008" name="12:40-(1) MOTILAR 1 HEBRA  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3913009" name="12:41-(5) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3935" name="[16] 3935 M 2-3-9100" color="#8cb6ce" meeting="false" start="13/06/2005" duration="142" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: GIRAFFE
+</notes>
+<task id="3935001" name="11:44-(134) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="13/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 10:07</notes> </task>
+<task id="3935002" name="09:57-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 13:38</notes> </task>
+<task id="3935003" name="10:04-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 05:53</notes> </task>
+<task id="3935004" name="17:03-(61) SUAVIZAR ALGODON (Color 131)   {APROBADA}" color="#ffff00" meeting="false" start="06/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 12:06</notes> </task>
+<task id="3935005" name="16:45-(20) PLANCHA NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 15:55</notes> </task>
+<task id="3935006" name="13:37-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3966" name="[17] 3966 M 2-3-9702" color="#8cb6ce" meeting="false" start="14/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: 5PP VEHICLES
+</notes>
+<task id="3966001" name="19:11-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 13:38</notes> </task>
+<task id="3966002" name="22:15-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 14:14</notes> </task>
+<task id="3966003" name="14:59-(134) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 16:40</notes> </task>
+<task id="3966004" name="19:01-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 20:37</notes> </task>
+<task id="3966005" name="21:29-(20) PREORIENTAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 10:18</notes> </task>
+<task id="3966006" name="11:38-(61) SUAVIZAR ALGODON (Color 125)   {APROBADA}" color="#ffff00" meeting="false" start="26/10/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 12:34</notes> </task>
+<task id="3966007" name="23:02-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3966008" name="16:20-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3967" name="[18] 3967 M 2-3-9703" color="#8cb6ce" meeting="false" start="14/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: 5PP VEHICLE
+</notes>
+<task id="3967001" name="14:37-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 13:16</notes> </task>
+<task id="3967002" name="14:59-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 02:26</notes> </task>
+<task id="3967003" name="14:59-(134) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 05:01</notes> </task>
+<task id="3967004" name="19:08-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 08:02</notes> </task>
+<task id="3967005" name="23:02-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3967006" name="23:22-(61) SUAVIZAR ALGODON (Color 131)   {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3967007" name="23:22-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3967008" name="16:24-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3968" name="[19] 3968 M 2-3-9704" color="#8cb6ce" meeting="false" start="14/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: 5PP VEHICLE
+</notes>
+<task id="3968001" name="21:28-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 19:25</notes> </task>
+<task id="3968002" name="15:15-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 16:20</notes> </task>
+<task id="3968003" name="19:38-(134) TEJIDO  {PROCESO}" color="#3366ff" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3968004" name="14:31-(7) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3968005" name="23:12-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3968006" name="21:52-(61) SUAVIZAR ALGODON (Color 45)   {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3968007" name="23:22-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3968008" name="16:28-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3969" name="[20] 3969 M 2-3-9705" color="#8cb6ce" meeting="false" start="15/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: 5PP VEHICLE
+</notes>
+<task id="3969001" name="07:45-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 19:55</notes> </task>
+<task id="3969002" name="19:40-(200) DESARROLLO TÉCNICO - TEJER  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969003" name="19:57-(134) TEJIDO  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969004" name="14:38-(7) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969005" name="23:32-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969006" name="22:11-(61) SUAVIZAR ALGODON (Color 45)   {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969007" name="23:42-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3969008" name="16:32-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3970" name="[21] 3970 M 2-3-9706" color="#8cb6ce" meeting="false" start="15/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: WOOLWORTHS P.L.C.
+EJECUTIVA: CAMILA MONTOYA SANIN
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: 5PP VEHICLE
+</notes>
+<task id="3970001" name="10:02-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 20:22</notes> </task>
+<task id="3970002" name="16:14-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 08:53</notes> </task>
+<task id="3970003" name="16:15-(134) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 10:43</notes> </task>
+<task id="3970004" name="19:36-(7) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="23/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 13:25</notes> </task>
+<task id="3970005" name="23:42-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="27/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3970006" name="00:02-(61) SUAVIZAR ALGODON (Color 131)   {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3970007" name="00:02-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3970008" name="16:36-(4) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3986" name="[22] 3986 M 2-3-9708" color="#8cb6ce" meeting="false" start="14/06/2005" duration="148" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE II
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: TOALLA
+</notes>
+<task id="3986001" name="23:17-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-14 23:21</notes> </task>
+<task id="3986002" name="23:27-(884) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 08:09</notes> </task>
+<task id="3986003" name="20:04-(42) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 08:41</notes> </task>
+<task id="3986004" name="01:19-(6) MOJAR-CENTRIFUGAR  {APROBADA}" color="#ffff00" meeting="false" start="20/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 21:05</notes> </task>
+<task id="3986005" name="01:25-(26) PREHORMAR NORMAL  {APROBADA}" color="#ffff00" meeting="false" start="20/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 21:49</notes> </task>
+<task id="3986006" name="06:16-(446) TENIR NYLON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3986007" name="09:05-(446) TENIR NYLON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3986008" name="10:42-(446) TENIR NYLON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3986009" name="12:14-(446) TENIR NYLON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39860010" name="13:03-(446) TENIR NYLON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39860011" name="13:08-(446) TENIR NYLON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39860012" name="13:42-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39860013" name="07:30-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="08/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3990" name="[23] 3990 M 2-3-9709" color="#8cb6ce" meeting="false" start="16/06/2005" duration="146" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: TRAINER TERRY
+</notes>
+<task id="3990001" name="21:04-(200) DESARROLLO TÉCNICO - TEJER  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990002" name="21:47-(884) TEJIDO  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990003" name="06:37-(42) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990004" name="17:55-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990005" name="13:42-(1066) TENIR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990006" name="16:31-(1066) TENIR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990007" name="17:20-(1066) TENIR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990008" name="18:08-(1066) TENIR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3990009" name="19:00-(1066) TENIR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39900010" name="19:40-(1066) TENIR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="05/11/2005" duration="3" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39900011" name="17:55-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="39900012" name="08:52-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="02/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="3999" name="[24] 3999 M 2-3-9711" color="#8cb6ce" meeting="false" start="14/06/2005" duration="142" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: RALPH LAUREN CHILDRENSWEAR
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: MERCERIZED
+</notes>
+<task id="3999001" name="18:43-(200) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="14/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 19:24</notes> </task>
+<task id="3999002" name="14:59-(188) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 20:38</notes> </task>
+<task id="3999003" name="17:12-(9) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="20/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 07:10</notes> </task>
+<task id="3999004" name="20:28-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3999005" name="20:48-(61) SUAVIZAR ALGODON (Color 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3999006" name="20:48-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3999007" name="21:08-(100) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="28/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="3999008" name="10:58-(8) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="02/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4018" name="[25] 4018 M 2-3-9694" color="#8cb6ce" meeting="false" start="16/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: COLOR BLOCKED 3PK
+</notes>
+<task id="4018001" name="15:03-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018002" name="15:34-(562) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018003" name="20:54-(27) CERRAR EN MERROW  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018004" name="17:42-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018005" name="08:56-(61) SUAVIZAR ALGODON (Color 30)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018006" name="08:56-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018007" name="09:31-(61) SUAVIZAR ALGODON (Color 210)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018008" name="09:51-(61) SUAVIZAR ALGODON (Color 260)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4018009" name="09:57-(61) SUAVIZAR ALGODON (Color 505)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40180010" name="17:45-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40180011" name="16:50-(3) MOTILAR 1 HEBRA  {PROGRAMADA}" color="#33cc00" meeting="false" start="02/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40180012" name="16:53-(12) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="02/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4022" name="[26] 4022 M 2-3-9717" color="#8cb6ce" meeting="false" start="16/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: COLOR BLOCKED 3PK
+</notes>
+<task id="4022001" name="16:03-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022002" name="18:23-(675) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022003" name="07:04-(33) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022004" name="18:05-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022005" name="13:39-(61) SUAVIZAR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022006" name="13:39-(61) SUAVIZAR ALGODON (Color 29)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022007" name="13:39-(61) SUAVIZAR ALGODON (Color 234)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022008" name="13:39-(61) SUAVIZAR ALGODON (Color 250)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4022009" name="13:39-(61) SUAVIZAR ALGODON (Color 502)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40220010" name="13:39-(61) SUAVIZAR ALGODON (Color 510)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40220011" name="18:11-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40220012" name="08:04-(3) MOTILAR 1 HEBRA  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40220013" name="08:07-(14) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4025" name="[27] 4025 M 2-3-9718" color="#8cb6ce" meeting="false" start="15/06/2005" duration="142" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: DIAMOND MESH
+</notes>
+<task id="4025001" name="07:13-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 11:40</notes> </task>
+<task id="4025002" name="22:43-(216) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 10:09</notes> </task>
+<task id="4025003" name="22:53-(562) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 15:28</notes> </task>
+<task id="4025004" name="07:46-(27) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 15:36</notes> </task>
+<task id="4025005" name="08:13-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4025006" name="08:13-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4025007" name="08:13-(61) SUAVIZAR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4025008" name="08:13-(61) SUAVIZAR ALGODON (Color 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4025009" name="08:13-(61) SUAVIZAR ALGODON (Color 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40250010" name="08:13-(61) SUAVIZAR ALGODON (Color 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40250011" name="08:13-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40250012" name="08:26-(12) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4026" name="[28] 4026 M 2-3-9719" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: DIAMOND MESH
+</notes>
+<task id="4026001" name="01:53-(216) DESARROLLO TÉCNICO - TEJER  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026002" name="02:34-(562) TEJIDO  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026003" name="08:13-(27) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026004" name="18:31-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026005" name="14:40-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026006" name="14:40-(61) SUAVIZAR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026007" name="14:40-(61) SUAVIZAR ALGODON (Color 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026008" name="14:40-(61) SUAVIZAR ALGODON (Color 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4026009" name="14:40-(61) SUAVIZAR ALGODON (Color 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40260010" name="18:37-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40260011" name="08:38-(12) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4027" name="[29] 4027 M 2-3-9720" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: SOLID
+</notes>
+<task id="4027001" name="03:13-(200) DESARROLLO TÉCNICO - TEJER  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027002" name="03:46-(562) TEJIDO  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027003" name="08:40-(27) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027004" name="18:45-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027005" name="14:40-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027006" name="15:41-(61) SUAVIZAR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027007" name="15:41-(61) SUAVIZAR ALGODON (Color 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027008" name="15:41-(61) SUAVIZAR ALGODON (Color 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4027009" name="15:41-(61) SUAVIZAR ALGODON (Color 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40270010" name="18:51-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40270011" name="08:50-(12) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4029" name="[30] 4029 M 2-3-9722" color="#8cb6ce" meeting="false" start="16/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: BLOCK MESH
+</notes>
+<task id="4029001" name="02:20-(216) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 17:42</notes> </task>
+<task id="4029002" name="02:31-(1254) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 12:08</notes> </task>
+<task id="4029003" name="09:07-(60) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 15:35</notes> </task>
+<task id="4029004" name="10:07-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4029005" name="10:07-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4029006" name="10:07-(61) SUAVIZAR ALGODON (Color 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4029007" name="10:07-(61) SUAVIZAR ALGODON (Color 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4029008" name="10:07-(61) SUAVIZAR ALGODON (Color 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4029009" name="10:07-(61) SUAVIZAR ALGODON (Color 5)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290010" name="10:07-(61) SUAVIZAR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290011" name="10:07-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290012" name="10:07-(61) SUAVIZAR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290013" name="10:07-(61) SUAVIZAR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290014" name="10:07-(61) SUAVIZAR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290015" name="10:07-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40290016" name="09:27-(32) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4030" name="[31] 4030 M 2-3-9723" color="#8cb6ce" meeting="false" start="15/06/2005" duration="142" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: DOT MESH
+</notes>
+<task id="4030001" name="08:40-(216) DESARROLLO TÉCNICO - TEJER  {APROBADA}" color="#ffff00" meeting="false" start="15/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 13:41</notes> </task>
+<task id="4030002" name="03:04-(616) TEJIDO  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 20:57</notes> </task>
+<task id="4030003" name="16:48-(30) CERRAR EN COMPLET  {APROBADA}" color="#ffff00" meeting="false" start="21/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 08:01</notes> </task>
+<task id="4030004" name="19:05-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4030005" name="19:25-(61) SUAVIZAR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4030006" name="19:25-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4030007" name="19:25-(61) SUAVIZAR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4030008" name="19:25-(61) SUAVIZAR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4030009" name="19:25-(61) SUAVIZAR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40300010" name="19:25-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40300011" name="09:59-(15) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4031" name="[32] 4031 M 2-3-9724" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: SOLID SOCK
+</notes>
+<task id="4031001" name="04:01-(200) DESARROLLO TÉCNICO - TEJER  {LISTA PARA INICIAR}" color="#33ccfd" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4031002" name="10:07-(7) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4031003" name="10:14-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4031004" name="10:14-(61) SUAVIZAR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4031005" name="10:14-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4031006" name="10:14-(5) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4032" name="[33] 4032 M 2-3-9725" color="#8cb6ce" meeting="false" start="16/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: VINTAGE FLORAL
+</notes>
+<task id="4032001" name="09:30-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 12:33</notes> </task>
+<task id="4032002" name="16:52-(216) DESARROLLO TÉCNICO - TEJER  {PARO GENERAL}" color="#ff3333" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032003" name="13:31-(804) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032004" name="10:14-(38) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032005" name="19:45-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032006" name="02:55-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032007" name="02:55-(61) SUAVIZAR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032008" name="02:55-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4032009" name="03:56-(61) SUAVIZAR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40320010" name="03:56-(61) SUAVIZAR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40320011" name="03:56-(61) SUAVIZAR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40320012" name="19:57-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40320013" name="10:19-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4033" name="[34] 4033 M 2-3-9726" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: VINTAGE
+</notes>
+<task id="4033001" name="06:41-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-15 13:19</notes> </task>
+<task id="4033002" name="14:58-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033003" name="15:54-(804) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033004" name="10:52-(38) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033005" name="20:05-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033006" name="05:18-(61) SUAVIZAR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033007" name="05:18-(61) SUAVIZAR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033008" name="05:18-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4033009" name="05:18-(61) SUAVIZAR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40330010" name="06:19-(61) SUAVIZAR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40330011" name="06:19-(61) SUAVIZAR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40330012" name="20:17-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40330013" name="10:42-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4034" name="[35] 4034 M 2-3-9727" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: SOLID
+</notes>
+<task id="4034001" name="16:10-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034002" name="18:06-(804) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034003" name="11:30-(38) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034004" name="20:25-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034005" name="07:30-(61) SUAVIZAR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034006" name="07:30-(61) SUAVIZAR ALGODON (Color 32)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034007" name="07:30-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034008" name="07:30-(61) SUAVIZAR ALGODON (Color 137)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4034009" name="08:31-(61) SUAVIZAR ALGODON (Color 247)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40340010" name="08:31-(61) SUAVIZAR ALGODON (Color 252)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40340011" name="20:37-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="29/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40340012" name="11:05-(23) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4052" name="[36] 4052 M 2-3-9733" color="#8cb6ce" meeting="false" start="16/06/2005" duration="141" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: TRIBAL BORDER
+</notes>
+<task id="4052001" name="20:55-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 13:43</notes> </task>
+<task id="4052002" name="09:31-(216) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052003" name="10:19-(562) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052004" name="18:17-(27) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052005" name="03:29-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052006" name="12:35-(61) SUAVIZAR ALGODON (Color 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052007" name="12:35-(61) SUAVIZAR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052008" name="12:35-(61) SUAVIZAR ALGODON (Color 135)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4052009" name="12:35-(61) SUAVIZAR ALGODON (Color 345)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40520010" name="13:36-(61) SUAVIZAR ALGODON (Color 440)   {PROGRAMADA}" color="#33cc00" meeting="false" start="18/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40520011" name="03:46-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40520012" name="13:26-(12) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4058" name="[37] 4058 M 2-3-9738" color="#8cb6ce" meeting="false" start="17/06/2005" duration="149" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: TRIBAL ECAT
+</notes>
+<task id="4058001" name="07:12-(137) GRAFICAR DISEÑO MONOCILINDRO  {APROBADA}" color="#ffff00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"><notes> FECHA FIN: 2005-06-16 10:52</notes> </task>
+<task id="4058002" name="11:56-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058003" name="12:03-(949) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058004" name="19:53-(45) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058005" name="04:49-(20) PREORIENTAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058006" name="12:24-(1560) DLLO COL CALCETIN ALGODON (Color 75)  (S.S. 1)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058007" name="12:24-(1560) DLLO COL CALCETIN ALGODON (Color 135)  (S.S. 2)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058008" name="12:24-(1560) DLLO COL CALCETIN ALGODON (Color 195)  (S.S. 3)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4058009" name="13:07-(1560) DLLO COL CALCETIN ALGODON (Color 345)  (S.S. 4)   {PROGRAMADA}" color="#33cc00" meeting="false" start="22/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580010" name="15:28-(1066) TENIR ALGODON (Color 0)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580011" name="16:24-(1066) TENIR ALGODON (Color 75)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580012" name="17:12-(1066) TENIR ALGODON (Color 90)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580013" name="18:06-(1066) TENIR ALGODON (Color 135)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580014" name="18:55-(1066) TENIR ALGODON (Color 195)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580015" name="19:06-(1066) TENIR ALGODON (Color 345)   {PROGRAMADA}" color="#33cc00" meeting="false" start="11/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580016" name="05:06-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40580017" name="14:17-(27) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4074" name="[38] 4074 M 2-3-9585" color="#8cb6ce" meeting="false" start="17/06/2005" duration="15" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: SCALLOPED RUFFLE
+</notes>
+<task id="4074001" name="13:15-(884) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4074002" name="07:01-(42) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4074003" name="07:02-(26) PREHORMAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="30/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4075" name="[39] 4075 M 2-3-9600" color="#8cb6ce" meeting="false" start="16/06/2005" duration="10" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: LIZ CLAIBORNE, INC.
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: ROUCHED
+</notes>
+<task id="4075001" name="15:09-(949) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="16/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4075002" name="17:54-(45) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="25/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4075003" name="18:39-(26) PREHORMAR NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="25/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+<task id="4076" name="[40] 4076 M 2-3-9707" color="#8cb6ce" meeting="false" start="17/06/2005" duration="140" complete="0" fixed-start="false" priority="1" expand="false"><notes>CLIENTE: RALPH LAUREN CHILDRENSWEAR
+EJECUTIVA: ISABEL ARANGO TISNES
+DESARROLLADOR: MAURICIO ALBERTO RIOS RIOS
+MUESTRA: CREW SOCK
+</notes>
+<task id="4076001" name="13:32-(200) DESARROLLO TÉCNICO - TEJER  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076002" name="14:23-(1159) TEJIDO  {PROGRAMADA}" color="#33cc00" meeting="false" start="17/06/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076003" name="07:43-(55) CERRAR EN COMPLET  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076004" name="08:38-(61) SUAVIZAR ALGODON (Color 44)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076005" name="08:38-(61) SUAVIZAR ALGODON (Color 132)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076006" name="08:38-(61) SUAVIZAR ALGODON (Color 133)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076007" name="08:38-(61) SUAVIZAR ALGODON (Color 134)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076008" name="08:38-(61) SUAVIZAR ALGODON (Color 135)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="4076009" name="08:38-(61) SUAVIZAR ALGODON (Color 210)   {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40760010" name="09:39-(20) PLANCHA NORMAL  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40760011" name="09:59-(480) BORDAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="01/07/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+<task id="40760012" name="15:44-(36) EMPACAR  {PROGRAMADA}" color="#33cc00" meeting="false" start="03/11/2005" duration="1" complete="0" fixed-start="false" priority="1" expand="false"/>
+</task>
+</tasks>
+<resources> 
+<resource id="112" name="DESARROLLO TECNICO (108, 120,156,200)" function="Default:0" contacts="" phone="" />
+
+<resource id="114" name="DESARROLLO TECNICO DOBLECILINDRO" function="Default:0" contacts="" phone="" />
+
+<resource id="115" name="CERRADO" function="Default:0" contacts="" phone="" />
+
+<resource id="118" name="PROCESADOR1" function="Default:0" contacts="" phone="" />
+
+<resource id="120" name="EMPACADORA1" function="Default:0" contacts="" phone="" />
+
+<resource id="128" name="DESARROLLO CALCETINES1" function="Default:0" contacts="" phone="" />
+
+<resource id="13" name="GRAFICADOR 1" function="Default:0" contacts="" phone="" />
+
+<resource id="131" name="TENIDO MUESTRA1" function="Default:0" contacts="" phone="" />
+
+<resource id="14" name="DESARROLLO TEC(96-108D-12OD-132-144-168)" function="Default:0" contacts="" phone="" />
+
+<resource id="2416" name="UNIMAC(MUEST CALCETINE)X[PMAX:3.000-PMED:1.500-PMI" function="Default:0" contacts="" phone="" />
+
+<resource id="2418" name="UNIMAC(MUEST CALCETINE)X[PMAX:3.000-PMED:1.500-PMI" function="Default:0" contacts="" phone="" />
+
+<resource id="2419" name="UNIMAC(MUEST CALCETINE)X[PMAX:3.000-PMED:1.500-PMI" function="Default:0" contacts="" phone="" />
+
+<resource id="2421" name="LAUNDEROMETRO(TONOS CALCETINE)X[PMAX:10.000-PMED:8" function="Default:0" contacts="" phone="" />
+
+<resource id="2424" name="LAUNDEROMETRO(TONOS CALCETINE)X[PMAX:10.000-PMED:8" function="Default:0" contacts="" phone="" />
+
+<resource id="2426" name="LAUNDEROMETRO(TONOS CALCETINE)X[PMAX:10.000-PMED:8" function="Default:0" contacts="" phone="" />
+
+<resource id="2434" name="LAUNDEROMETRO(TONOS CALCETINE)X[PMAX:10.000-PMED:8" function="Default:0" contacts="" phone="" />
+
+<resource id="2435" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2436" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2437" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2438" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2439" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2440" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2441" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="2442" name="LAM ROTATORIA(MUES CALCETINES)X[PMAX:1.000-PMED:0." function="Default:0" contacts="" phone="" />
+
+<resource id="262" name="MACON(316)X[PMAX:10.000-PMED:8.000-PMIN:5.000]" function="Default:0" contacts="" phone="" />
+
+</resources>
+<allocations>
+<allocation task-id="3225001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3225002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3225003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3225004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3225005" resource-id="128" load="100.00"/>
+
+<allocation task-id="3225005" resource-id="2426" load="100.00"/>
+
+<allocation task-id="3225006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3225006" resource-id="2440" load="100.00"/>
+
+<allocation task-id="3225007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3225008" resource-id="118" load="100.00"/>
+
+<allocation task-id="3250001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3250002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3250003" resource-id="128" load="100.00"/>
+
+<allocation task-id="3250003" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3250004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3250005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3250006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3250006" resource-id="2440" load="100.00"/>
+
+<allocation task-id="3250007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3250008" resource-id="118" load="100.00"/>
+
+<allocation task-id="3250009" resource-id="120" load="100.00"/>
+
+<allocation task-id="3407001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3407002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3407003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3407004" resource-id="131" load="100.00"/>
+
+<allocation task-id="3407004" resource-id="262" load="100.00"/>
+
+<allocation task-id="3407005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3407005" resource-id="262" load="100.00"/>
+
+<allocation task-id="3407006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3407007" resource-id="120" load="100.00"/>
+
+<allocation task-id="3573001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3573002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3573003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3573004" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573004" resource-id="2426" load="100.00"/>
+
+<allocation task-id="3573005" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573005" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3573006" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573006" resource-id="2426" load="100.00"/>
+
+<allocation task-id="3573007" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573007" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3573008" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573008" resource-id="2421" load="100.00"/>
+
+<allocation task-id="3573009" resource-id="128" load="100.00"/>
+
+<allocation task-id="3573009" resource-id="2426" load="100.00"/>
+
+<allocation task-id="35730010" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730010" resource-id="2435" load="100.00"/>
+
+<allocation task-id="35730011" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730011" resource-id="2436" load="100.00"/>
+
+<allocation task-id="35730012" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730012" resource-id="2435" load="100.00"/>
+
+<allocation task-id="35730013" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730013" resource-id="2437" load="100.00"/>
+
+<allocation task-id="35730014" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730014" resource-id="2436" load="100.00"/>
+
+<allocation task-id="35730015" resource-id="131" load="100.00"/>
+
+<allocation task-id="35730015" resource-id="2435" load="100.00"/>
+
+<allocation task-id="35730016" resource-id="118" load="100.00"/>
+
+<allocation task-id="35730017" resource-id="120" load="100.00"/>
+
+<allocation task-id="3577001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3577002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3577003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3577004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3577005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3577006" resource-id="128" load="100.00"/>
+
+<allocation task-id="3577006" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3577007" resource-id="128" load="100.00"/>
+
+<allocation task-id="3577007" resource-id="2434" load="100.00"/>
+
+<allocation task-id="3577008" resource-id="128" load="100.00"/>
+
+<allocation task-id="3577008" resource-id="2421" load="100.00"/>
+
+<allocation task-id="3577009" resource-id="128" load="100.00"/>
+
+<allocation task-id="3577009" resource-id="2421" load="100.00"/>
+
+<allocation task-id="35770010" resource-id="128" load="100.00"/>
+
+<allocation task-id="35770010" resource-id="2424" load="100.00"/>
+
+<allocation task-id="35770011" resource-id="128" load="100.00"/>
+
+<allocation task-id="35770011" resource-id="2424" load="100.00"/>
+
+<allocation task-id="35770012" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770012" resource-id="2439" load="100.00"/>
+
+<allocation task-id="35770013" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770013" resource-id="2438" load="100.00"/>
+
+<allocation task-id="35770014" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770014" resource-id="2442" load="100.00"/>
+
+<allocation task-id="35770015" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770015" resource-id="2439" load="100.00"/>
+
+<allocation task-id="35770016" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770016" resource-id="2437" load="100.00"/>
+
+<allocation task-id="35770017" resource-id="131" load="100.00"/>
+
+<allocation task-id="35770017" resource-id="2440" load="100.00"/>
+
+<allocation task-id="35770018" resource-id="118" load="100.00"/>
+
+<allocation task-id="3679001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3679002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3679003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3679004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3679005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3679005" resource-id="2439" load="100.00"/>
+
+<allocation task-id="3679006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3679007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3701001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3701002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3701003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3701004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3701005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3701006" resource-id="128" load="100.00"/>
+
+<allocation task-id="3701006" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3701007" resource-id="128" load="100.00"/>
+
+<allocation task-id="3701007" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3701008" resource-id="128" load="100.00"/>
+
+<allocation task-id="3701008" resource-id="2421" load="100.00"/>
+
+<allocation task-id="3701009" resource-id="128" load="100.00"/>
+
+<allocation task-id="3701009" resource-id="2424" load="100.00"/>
+
+<allocation task-id="37010010" resource-id="128" load="100.00"/>
+
+<allocation task-id="37010010" resource-id="2434" load="100.00"/>
+
+<allocation task-id="37010011" resource-id="128" load="100.00"/>
+
+<allocation task-id="37010011" resource-id="2424" load="100.00"/>
+
+<allocation task-id="37010012" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010012" resource-id="2441" load="100.00"/>
+
+<allocation task-id="37010013" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010013" resource-id="2440" load="100.00"/>
+
+<allocation task-id="37010014" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010014" resource-id="2418" load="100.00"/>
+
+<allocation task-id="37010015" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010015" resource-id="2441" load="100.00"/>
+
+<allocation task-id="37010016" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010016" resource-id="2440" load="100.00"/>
+
+<allocation task-id="37010017" resource-id="131" load="100.00"/>
+
+<allocation task-id="37010017" resource-id="2416" load="100.00"/>
+
+<allocation task-id="37010018" resource-id="118" load="100.00"/>
+
+<allocation task-id="37010019" resource-id="120" load="100.00"/>
+
+<allocation task-id="3719001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3719002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3719003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3719004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3719005" resource-id="128" load="100.00"/>
+
+<allocation task-id="3719005" resource-id="2421" load="100.00"/>
+
+<allocation task-id="3719006" resource-id="128" load="100.00"/>
+
+<allocation task-id="3719006" resource-id="2424" load="100.00"/>
+
+<allocation task-id="3719007" resource-id="128" load="100.00"/>
+
+<allocation task-id="3719007" resource-id="2421" load="100.00"/>
+
+<allocation task-id="3719008" resource-id="128" load="100.00"/>
+
+<allocation task-id="3719008" resource-id="2434" load="100.00"/>
+
+<allocation task-id="3719009" resource-id="128" load="100.00"/>
+
+<allocation task-id="3719009" resource-id="2426" load="100.00"/>
+
+<allocation task-id="37190010" resource-id="128" load="100.00"/>
+
+<allocation task-id="37190010" resource-id="2426" load="100.00"/>
+
+<allocation task-id="37190011" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190011" resource-id="2441" load="100.00"/>
+
+<allocation task-id="37190012" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190012" resource-id="2440" load="100.00"/>
+
+<allocation task-id="37190013" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190013" resource-id="2416" load="100.00"/>
+
+<allocation task-id="37190014" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190014" resource-id="2419" load="100.00"/>
+
+<allocation task-id="37190015" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190015" resource-id="2418" load="100.00"/>
+
+<allocation task-id="37190016" resource-id="131" load="100.00"/>
+
+<allocation task-id="37190016" resource-id="2442" load="100.00"/>
+
+<allocation task-id="37190017" resource-id="118" load="100.00"/>
+
+<allocation task-id="37190018" resource-id="120" load="100.00"/>
+
+<allocation task-id="3730001" resource-id="131" load="100.00"/>
+
+<allocation task-id="3730001" resource-id="2435" load="100.00"/>
+
+<allocation task-id="3730002" resource-id="131" load="100.00"/>
+
+<allocation task-id="3730002" resource-id="2437" load="100.00"/>
+
+<allocation task-id="3730003" resource-id="131" load="100.00"/>
+
+<allocation task-id="3730003" resource-id="2438" load="100.00"/>
+
+<allocation task-id="3730004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3730005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3730006" resource-id="120" load="100.00"/>
+
+<allocation task-id="3730007" resource-id="120" load="100.00"/>
+
+<allocation task-id="3769001" resource-id="14" load="100.00"/>
+
+<allocation task-id="3769002" resource-id="14" load="100.00"/>
+
+<allocation task-id="3769003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3769004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3769005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3769005" resource-id="2416" load="100.00"/>
+
+<allocation task-id="3769006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3769007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3769008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3814001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3814002" resource-id="115" load="100.00"/>
+
+<allocation task-id="3814003" resource-id="118" load="100.00"/>
+
+<allocation task-id="3814004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3815001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3815002" resource-id="118" load="100.00"/>
+
+<allocation task-id="3815003" resource-id="120" load="100.00"/>
+
+<allocation task-id="3825001" resource-id="14" load="100.00"/>
+
+<allocation task-id="3825002" resource-id="14" load="100.00"/>
+
+<allocation task-id="3825003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3825004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3825005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3825005" resource-id="2419" load="100.00"/>
+
+<allocation task-id="3825006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3825007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3825008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3839001" resource-id="14" load="100.00"/>
+
+<allocation task-id="3839002" resource-id="14" load="100.00"/>
+
+<allocation task-id="3839003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3839004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3839005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3913001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3913002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3913003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3913004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3913005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3913005" resource-id="2438" load="100.00"/>
+
+<allocation task-id="3913006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3913007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3913008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3913009" resource-id="120" load="100.00"/>
+
+<allocation task-id="3935001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3935002" resource-id="115" load="100.00"/>
+
+<allocation task-id="3935003" resource-id="118" load="100.00"/>
+
+<allocation task-id="3935004" resource-id="131" load="100.00"/>
+
+<allocation task-id="3935004" resource-id="2416" load="100.00"/>
+
+<allocation task-id="3935005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3935006" resource-id="120" load="100.00"/>
+
+<allocation task-id="3966001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3966002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3966003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3966004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3966005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3966006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3966006" resource-id="262" load="100.00"/>
+
+<allocation task-id="3966007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3966008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3967001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3967002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3967003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3967004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3967005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3967006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3967006" resource-id="262" load="100.00"/>
+
+<allocation task-id="3967007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3967008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3968001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3968002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3968003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3968004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3968005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3968006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3968006" resource-id="262" load="100.00"/>
+
+<allocation task-id="3968007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3968008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3969001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3969002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3969003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3969004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3969005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3969006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3969006" resource-id="262" load="100.00"/>
+
+<allocation task-id="3969007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3969008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3970001" resource-id="13" load="100.00"/>
+
+<allocation task-id="3970002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3970003" resource-id="112" load="100.00"/>
+
+<allocation task-id="3970004" resource-id="115" load="100.00"/>
+
+<allocation task-id="3970005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3970006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3970006" resource-id="262" load="100.00"/>
+
+<allocation task-id="3970007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3970008" resource-id="120" load="100.00"/>
+
+<allocation task-id="3986001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3986002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3986003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3986004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3986005" resource-id="118" load="100.00"/>
+
+<allocation task-id="3986006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3986006" resource-id="2442" load="100.00"/>
+
+<allocation task-id="3986007" resource-id="131" load="100.00"/>
+
+<allocation task-id="3986007" resource-id="2439" load="100.00"/>
+
+<allocation task-id="3986008" resource-id="131" load="100.00"/>
+
+<allocation task-id="3986008" resource-id="2441" load="100.00"/>
+
+<allocation task-id="3986009" resource-id="131" load="100.00"/>
+
+<allocation task-id="3986009" resource-id="2440" load="100.00"/>
+
+<allocation task-id="39860010" resource-id="131" load="100.00"/>
+
+<allocation task-id="39860010" resource-id="2418" load="100.00"/>
+
+<allocation task-id="39860011" resource-id="131" load="100.00"/>
+
+<allocation task-id="39860011" resource-id="2416" load="100.00"/>
+
+<allocation task-id="39860012" resource-id="118" load="100.00"/>
+
+<allocation task-id="39860013" resource-id="120" load="100.00"/>
+
+<allocation task-id="3990001" resource-id="112" load="100.00"/>
+
+<allocation task-id="3990002" resource-id="112" load="100.00"/>
+
+<allocation task-id="3990003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3990004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3990005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3990005" resource-id="2442" load="100.00"/>
+
+<allocation task-id="3990006" resource-id="131" load="100.00"/>
+
+<allocation task-id="3990006" resource-id="2439" load="100.00"/>
+
+<allocation task-id="3990007" resource-id="131" load="100.00"/>
+
+<allocation task-id="3990007" resource-id="2435" load="100.00"/>
+
+<allocation task-id="3990008" resource-id="131" load="100.00"/>
+
+<allocation task-id="3990008" resource-id="2441" load="100.00"/>
+
+<allocation task-id="3990009" resource-id="131" load="100.00"/>
+
+<allocation task-id="3990009" resource-id="2437" load="100.00"/>
+
+<allocation task-id="39900010" resource-id="131" load="100.00"/>
+
+<allocation task-id="39900010" resource-id="2440" load="100.00"/>
+
+<allocation task-id="39900011" resource-id="118" load="100.00"/>
+
+<allocation task-id="39900012" resource-id="120" load="100.00"/>
+
+<allocation task-id="3999001" resource-id="114" load="100.00"/>
+
+<allocation task-id="3999002" resource-id="114" load="100.00"/>
+
+<allocation task-id="3999003" resource-id="115" load="100.00"/>
+
+<allocation task-id="3999004" resource-id="118" load="100.00"/>
+
+<allocation task-id="3999005" resource-id="131" load="100.00"/>
+
+<allocation task-id="3999005" resource-id="262" load="100.00"/>
+
+<allocation task-id="3999006" resource-id="118" load="100.00"/>
+
+<allocation task-id="3999007" resource-id="118" load="100.00"/>
+
+<allocation task-id="3999008" resource-id="120" load="100.00"/>
+
+<allocation task-id="4018001" resource-id="114" load="100.00"/>
+
+<allocation task-id="4018002" resource-id="114" load="100.00"/>
+
+<allocation task-id="4018003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4018004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4018005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4018005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4018006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4018006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4018007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4018007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4018008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4018008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4018009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4018009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40180010" resource-id="118" load="100.00"/>
+
+<allocation task-id="40180011" resource-id="120" load="100.00"/>
+
+<allocation task-id="40180012" resource-id="120" load="100.00"/>
+
+<allocation task-id="4022001" resource-id="114" load="100.00"/>
+
+<allocation task-id="4022002" resource-id="114" load="100.00"/>
+
+<allocation task-id="4022003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4022004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4022005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4022005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4022006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4022006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4022007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4022007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4022008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4022008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4022009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4022009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40220010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40220010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40220011" resource-id="118" load="100.00"/>
+
+<allocation task-id="40220012" resource-id="120" load="100.00"/>
+
+<allocation task-id="40220013" resource-id="120" load="100.00"/>
+
+<allocation task-id="4025001" resource-id="13" load="100.00"/>
+
+<allocation task-id="4025002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4025003" resource-id="112" load="100.00"/>
+
+<allocation task-id="4025004" resource-id="115" load="100.00"/>
+
+<allocation task-id="4025005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4025006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4025006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4025007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4025007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4025008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4025008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4025009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4025009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40250010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40250010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40250011" resource-id="118" load="100.00"/>
+
+<allocation task-id="40250012" resource-id="120" load="100.00"/>
+
+<allocation task-id="4026001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4026002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4026003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4026004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4026005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4026005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4026006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4026006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4026007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4026007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4026008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4026008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4026009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4026009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40260010" resource-id="118" load="100.00"/>
+
+<allocation task-id="40260011" resource-id="120" load="100.00"/>
+
+<allocation task-id="4027001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4027002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4027003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4027004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4027005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4027005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4027006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4027006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4027007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4027007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4027008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4027008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4027009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4027009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40270010" resource-id="118" load="100.00"/>
+
+<allocation task-id="40270011" resource-id="120" load="100.00"/>
+
+<allocation task-id="4029001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4029002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4029003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4029004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4029005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4029005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4029006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4029006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4029007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4029007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4029008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4029008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4029009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4029009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40290010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290011" resource-id="131" load="100.00"/>
+
+<allocation task-id="40290011" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290012" resource-id="131" load="100.00"/>
+
+<allocation task-id="40290012" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290013" resource-id="131" load="100.00"/>
+
+<allocation task-id="40290013" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290014" resource-id="131" load="100.00"/>
+
+<allocation task-id="40290014" resource-id="262" load="100.00"/>
+
+<allocation task-id="40290015" resource-id="118" load="100.00"/>
+
+<allocation task-id="40290016" resource-id="120" load="100.00"/>
+
+<allocation task-id="4030001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4030002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4030003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4030004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4030005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4030005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4030006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4030006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4030007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4030007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4030008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4030008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4030009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4030009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40300010" resource-id="118" load="100.00"/>
+
+<allocation task-id="40300011" resource-id="120" load="100.00"/>
+
+<allocation task-id="4031001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4031002" resource-id="115" load="100.00"/>
+
+<allocation task-id="4031003" resource-id="118" load="100.00"/>
+
+<allocation task-id="4031004" resource-id="131" load="100.00"/>
+
+<allocation task-id="4031004" resource-id="262" load="100.00"/>
+
+<allocation task-id="4031005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4031006" resource-id="120" load="100.00"/>
+
+<allocation task-id="4032001" resource-id="13" load="100.00"/>
+
+<allocation task-id="4032002" resource-id="14" load="100.00"/>
+
+<allocation task-id="4032003" resource-id="14" load="100.00"/>
+
+<allocation task-id="4032004" resource-id="115" load="100.00"/>
+
+<allocation task-id="4032005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4032006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4032006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4032007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4032007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4032008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4032008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4032009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4032009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40320010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40320010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40320011" resource-id="131" load="100.00"/>
+
+<allocation task-id="40320011" resource-id="262" load="100.00"/>
+
+<allocation task-id="40320012" resource-id="118" load="100.00"/>
+
+<allocation task-id="40320013" resource-id="120" load="100.00"/>
+
+<allocation task-id="4033001" resource-id="13" load="100.00"/>
+
+<allocation task-id="4033002" resource-id="14" load="100.00"/>
+
+<allocation task-id="4033003" resource-id="14" load="100.00"/>
+
+<allocation task-id="4033004" resource-id="115" load="100.00"/>
+
+<allocation task-id="4033005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4033006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4033006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4033007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4033007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4033008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4033008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4033009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4033009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40330010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40330010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40330011" resource-id="131" load="100.00"/>
+
+<allocation task-id="40330011" resource-id="262" load="100.00"/>
+
+<allocation task-id="40330012" resource-id="118" load="100.00"/>
+
+<allocation task-id="40330013" resource-id="120" load="100.00"/>
+
+<allocation task-id="4034001" resource-id="14" load="100.00"/>
+
+<allocation task-id="4034002" resource-id="14" load="100.00"/>
+
+<allocation task-id="4034003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4034004" resource-id="118" load="100.00"/>
+
+<allocation task-id="4034005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4034005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4034006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4034006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4034007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4034007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4034008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4034008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4034009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4034009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40340010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40340010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40340011" resource-id="118" load="100.00"/>
+
+<allocation task-id="40340012" resource-id="120" load="100.00"/>
+
+<allocation task-id="4052001" resource-id="13" load="100.00"/>
+
+<allocation task-id="4052002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4052003" resource-id="112" load="100.00"/>
+
+<allocation task-id="4052004" resource-id="115" load="100.00"/>
+
+<allocation task-id="4052005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4052006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4052006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4052007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4052007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4052008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4052008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4052009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4052009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40520010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40520010" resource-id="262" load="100.00"/>
+
+<allocation task-id="40520011" resource-id="118" load="100.00"/>
+
+<allocation task-id="40520012" resource-id="120" load="100.00"/>
+
+<allocation task-id="4058001" resource-id="13" load="100.00"/>
+
+<allocation task-id="4058002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4058003" resource-id="112" load="100.00"/>
+
+<allocation task-id="4058004" resource-id="115" load="100.00"/>
+
+<allocation task-id="4058005" resource-id="118" load="100.00"/>
+
+<allocation task-id="4058006" resource-id="128" load="100.00"/>
+
+<allocation task-id="4058006" resource-id="2421" load="100.00"/>
+
+<allocation task-id="4058007" resource-id="128" load="100.00"/>
+
+<allocation task-id="4058007" resource-id="2426" load="100.00"/>
+
+<allocation task-id="4058008" resource-id="128" load="100.00"/>
+
+<allocation task-id="4058008" resource-id="2421" load="100.00"/>
+
+<allocation task-id="4058009" resource-id="128" load="100.00"/>
+
+<allocation task-id="4058009" resource-id="2426" load="100.00"/>
+
+<allocation task-id="40580010" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580010" resource-id="2437" load="100.00"/>
+
+<allocation task-id="40580011" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580011" resource-id="2438" load="100.00"/>
+
+<allocation task-id="40580012" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580012" resource-id="2440" load="100.00"/>
+
+<allocation task-id="40580013" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580013" resource-id="2416" load="100.00"/>
+
+<allocation task-id="40580014" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580014" resource-id="2418" load="100.00"/>
+
+<allocation task-id="40580015" resource-id="131" load="100.00"/>
+
+<allocation task-id="40580015" resource-id="2419" load="100.00"/>
+
+<allocation task-id="40580016" resource-id="118" load="100.00"/>
+
+<allocation task-id="40580017" resource-id="120" load="100.00"/>
+
+<allocation task-id="4074001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4074002" resource-id="115" load="100.00"/>
+
+<allocation task-id="4074003" resource-id="118" load="100.00"/>
+
+<allocation task-id="4075001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4075002" resource-id="115" load="100.00"/>
+
+<allocation task-id="4075003" resource-id="118" load="100.00"/>
+
+<allocation task-id="4076001" resource-id="112" load="100.00"/>
+
+<allocation task-id="4076002" resource-id="112" load="100.00"/>
+
+<allocation task-id="4076003" resource-id="115" load="100.00"/>
+
+<allocation task-id="4076004" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076004" resource-id="262" load="100.00"/>
+
+<allocation task-id="4076005" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076005" resource-id="262" load="100.00"/>
+
+<allocation task-id="4076006" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076006" resource-id="262" load="100.00"/>
+
+<allocation task-id="4076007" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076007" resource-id="262" load="100.00"/>
+
+<allocation task-id="4076008" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076008" resource-id="262" load="100.00"/>
+
+<allocation task-id="4076009" resource-id="131" load="100.00"/>
+
+<allocation task-id="4076009" resource-id="262" load="100.00"/>
+
+<allocation task-id="40760010" resource-id="118" load="100.00"/>
+
+<allocation task-id="40760011" resource-id="118" load="100.00"/>
+
+<allocation task-id="40760012" resource-id="120" load="100.00"/>
+
+</allocations>
+<roles roleset-name="Default"/> </project>
