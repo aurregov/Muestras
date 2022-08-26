@@ -15,7 +15,7 @@ boolean titlebar = true
 string title = "Registro de Errores llamado SAP"
 boolean controlmenu = true
 windowtype windowtype = response!
-long backcolor = 12639424
+long backcolor = 134217731
 string icon = "AppIcon!"
 boolean center = true
 cb_1 cb_1
@@ -51,8 +51,8 @@ dw_inf.object.error[1] = ls_error
 end event
 
 type cb_1 from commandbutton within w_error_enviosap
-integer x = 2281
-integer y = 924
+integer x = 1038
+integer y = 896
 integer width = 343
 integer height = 100
 integer taborder = 20
