@@ -51,10 +51,10 @@ dw_inf.object.error[1] = ls_error
 end event
 
 type cb_1 from commandbutton within w_error_enviosap
-integer x = 1038
-integer y = 896
-integer width = 343
-integer height = 100
+integer x = 1975
+integer y = 916
+integer width = 622
+integer height = 108
 integer taborder = 20
 integer textsize = -8
 integer weight = 700
