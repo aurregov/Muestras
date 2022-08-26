@@ -59,7 +59,7 @@ end event
 type cb_2 from commandbutton within w_error_enviosap
 integer x = 539
 integer y = 932
-integer width = 343
+integer width = 361
 integer height = 100
 integer taborder = 30
 integer textsize = -8
@@ -68,7 +68,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Arial"
-string text = "Imprimir"
+string text = "Imprimir 456"
 end type
 
 type cb_1 from commandbutton within w_error_enviosap
