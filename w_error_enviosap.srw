@@ -19,7 +19,7 @@ boolean titlebar = true
 string title = "Registro de Errores llamado SAP"
 boolean controlmenu = true
 windowtype windowtype = response!
-long backcolor = 67108864
+long backcolor = 12639424
 string icon = "AppIcon!"
 boolean center = true
 st_1 st_1
