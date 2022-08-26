@@ -990,9 +990,9 @@ end on
 type st_11 from statictext within w_procesar_muestras
 integer x = 1573
 integer y = 28
-integer width = 846
-integer height = 104
-integer textsize = -14
+integer width = 873
+integer height = 156
+integer textsize = -16
 integer weight = 700
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
