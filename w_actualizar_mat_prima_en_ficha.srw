@@ -2,7 +2,7 @@ HA$PBExportHeader$w_actualizar_mat_prima_en_ficha.srw
 forward
 global type w_actualizar_mat_prima_en_ficha from w_response
 end type
-type st_1 from statictext within w_actualizar_mat_prima_en_ficha
+type cb_6 from commandbutton within w_actualizar_mat_prima_en_ficha
 end type
 type cb_borrar from commandbutton within w_actualizar_mat_prima_en_ficha
 end type
@@ -31,15 +31,14 @@ end type
 end forward
 
 global type w_actualizar_mat_prima_en_ficha from w_response
-integer width = 4050
-integer height = 1752
+integer width = 3982
+integer height = 2024
 string title = "Actualizar Materia Prima en Fichas"
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
 windowtype windowtype = main!
-long backcolor = 15780518
-st_1 st_1
+cb_6 cb_6
 cb_borrar cb_borrar
 sle_1 sle_1
 cb_5 cb_5
@@ -306,7 +305,7 @@ end subroutine
 on w_actualizar_mat_prima_en_ficha.create
 int iCurrent
 call super::create
-this.st_1=create st_1
+this.cb_6=create cb_6
 this.cb_borrar=create cb_borrar
 this.sle_1=create sle_1
 this.cb_5=create cb_5
@@ -320,7 +319,7 @@ this.cb_1=create cb_1
 this.dw_2=create dw_2
 this.dw_1=create dw_1
 iCurrent=UpperBound(this.Control)
-this.Control[iCurrent+1]=this.st_1
+this.Control[iCurrent+1]=this.cb_6
 this.Control[iCurrent+2]=this.cb_borrar
 this.Control[iCurrent+3]=this.sle_1
 this.Control[iCurrent+4]=this.cb_5
@@ -337,7 +336,7 @@ end on
 
 on w_actualizar_mat_prima_en_ficha.destroy
 call super::destroy
-destroy(this.st_1)
+destroy(this.cb_6)
 destroy(this.cb_borrar)
 destroy(this.sle_1)
 destroy(this.cb_5)
@@ -367,22 +366,19 @@ dw_2.SetTransObject(n_cst_application.itr_appl)
 inov_ActMP_Ficha = CREATE n_cst_c_actualizarmp_en_ficha
 end event
 
-type st_1 from statictext within w_actualizar_mat_prima_en_ficha
-integer x = 2418
-integer y = 1448
-integer width = 704
-integer height = 152
+type cb_6 from commandbutton within w_actualizar_mat_prima_en_ficha
+integer x = 87
+integer y = 1488
+integer width = 448
+integer height = 140
+integer taborder = 60
 integer textsize = -14
 integer weight = 400
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Arial"
-long textcolor = 33554432
-long backcolor = 67108864
-string text = "963"
-alignment alignment = center!
-boolean focusrectangle = false
+string text = "456"
 end type
 
 type cb_borrar from commandbutton within w_actualizar_mat_prima_en_ficha
