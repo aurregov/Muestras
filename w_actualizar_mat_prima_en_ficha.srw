@@ -2,6 +2,8 @@ HA$PBExportHeader$w_actualizar_mat_prima_en_ficha.srw
 forward
 global type w_actualizar_mat_prima_en_ficha from w_response
 end type
+type cb_6 from commandbutton within w_actualizar_mat_prima_en_ficha
+end type
 type cb_borrar from commandbutton within w_actualizar_mat_prima_en_ficha
 end type
 type sle_1 from singlelineedit within w_actualizar_mat_prima_en_ficha
@@ -29,13 +31,14 @@ end type
 end forward
 
 global type w_actualizar_mat_prima_en_ficha from w_response
-integer width = 3872
-integer height = 1476
+integer width = 3982
+integer height = 2024
 string title = "Actualizar Materia Prima en Fichas"
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
 windowtype windowtype = main!
+cb_6 cb_6
 cb_borrar cb_borrar
 sle_1 sle_1
 cb_5 cb_5
@@ -302,6 +305,7 @@ end subroutine
 on w_actualizar_mat_prima_en_ficha.create
 int iCurrent
 call super::create
+this.cb_6=create cb_6
 this.cb_borrar=create cb_borrar
 this.sle_1=create sle_1
 this.cb_5=create cb_5
@@ -315,22 +319,24 @@ this.cb_1=create cb_1
 this.dw_2=create dw_2
 this.dw_1=create dw_1
 iCurrent=UpperBound(this.Control)
-this.Control[iCurrent+1]=this.cb_borrar
-this.Control[iCurrent+2]=this.sle_1
-this.Control[iCurrent+3]=this.cb_5
-this.Control[iCurrent+4]=this.cbx_todos
-this.Control[iCurrent+5]=this.sle_lineatodas
-this.Control[iCurrent+6]=this.sle_fabtodas
-this.Control[iCurrent+7]=this.cb_4
-this.Control[iCurrent+8]=this.cb_3
-this.Control[iCurrent+9]=this.cb_2
-this.Control[iCurrent+10]=this.cb_1
-this.Control[iCurrent+11]=this.dw_2
-this.Control[iCurrent+12]=this.dw_1
+this.Control[iCurrent+1]=this.cb_6
+this.Control[iCurrent+2]=this.cb_borrar
+this.Control[iCurrent+3]=this.sle_1
+this.Control[iCurrent+4]=this.cb_5
+this.Control[iCurrent+5]=this.cbx_todos
+this.Control[iCurrent+6]=this.sle_lineatodas
+this.Control[iCurrent+7]=this.sle_fabtodas
+this.Control[iCurrent+8]=this.cb_4
+this.Control[iCurrent+9]=this.cb_3
+this.Control[iCurrent+10]=this.cb_2
+this.Control[iCurrent+11]=this.cb_1
+this.Control[iCurrent+12]=this.dw_2
+this.Control[iCurrent+13]=this.dw_1
 end on
 
 on w_actualizar_mat_prima_en_ficha.destroy
 call super::destroy
+destroy(this.cb_6)
 destroy(this.cb_borrar)
 destroy(this.sle_1)
 destroy(this.cb_5)
@@ -359,6 +365,21 @@ dw_2.SetTransObject(n_cst_application.itr_appl)
 
 inov_ActMP_Ficha = CREATE n_cst_c_actualizarmp_en_ficha
 end event
+
+type cb_6 from commandbutton within w_actualizar_mat_prima_en_ficha
+integer x = 87
+integer y = 1488
+integer width = 448
+integer height = 140
+integer taborder = 60
+integer textsize = -14
+integer weight = 400
+fontcharset fontcharset = ansi!
+fontpitch fontpitch = variable!
+fontfamily fontfamily = swiss!
+string facename = "Arial"
+string text = "456"
+end type
 
 type cb_borrar from commandbutton within w_actualizar_mat_prima_en_ficha
 boolean visible = false
