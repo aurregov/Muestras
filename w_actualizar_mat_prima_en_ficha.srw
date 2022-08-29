@@ -29,8 +29,8 @@ end type
 end forward
 
 global type w_actualizar_mat_prima_en_ficha from w_response
-integer width = 4119
-integer height = 1852
+integer width = 4050
+integer height = 1752
 string title = "Actualizar Materia Prima en Fichas"
 boolean minbox = true
 boolean maxbox = true
