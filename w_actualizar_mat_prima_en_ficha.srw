@@ -368,9 +368,9 @@ end event
 
 type cb_6 from commandbutton within w_actualizar_mat_prima_en_ficha
 integer x = 87
-integer y = 1488
-integer width = 448
-integer height = 140
+integer y = 1572
+integer width = 576
+integer height = 220
 integer taborder = 60
 integer textsize = -14
 integer weight = 400
