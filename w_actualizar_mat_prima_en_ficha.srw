@@ -29,13 +29,14 @@ end type
 end forward
 
 global type w_actualizar_mat_prima_en_ficha from w_response
-integer width = 3872
-integer height = 1476
+integer width = 4050
+integer height = 1752
 string title = "Actualizar Materia Prima en Fichas"
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
 windowtype windowtype = main!
+long backcolor = 12639424
 cb_borrar cb_borrar
 sle_1 sle_1
 cb_5 cb_5
