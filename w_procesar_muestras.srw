@@ -2,6 +2,8 @@ HA$PBExportHeader$w_procesar_muestras.srw
 forward
 global type w_procesar_muestras from window
 end type
+type st_11 from statictext within w_procesar_muestras
+end type
 type st_10 from statictext within w_procesar_muestras
 end type
 type cb_5 from commandbutton within w_procesar_muestras
@@ -67,9 +69,10 @@ boolean titlebar = true
 string title = "Migrar Muestra "
 boolean controlmenu = true
 windowtype windowtype = response!
-long backcolor = 67108864
+long backcolor = 15780518
 string icon = "AppIcon!"
 boolean center = true
+st_11 st_11
 st_10 st_10
 cb_5 cb_5
 cb_3 cb_3
@@ -892,6 +895,7 @@ return 1
 end function
 
 on w_procesar_muestras.create
+this.st_11=create st_11
 this.st_10=create st_10
 this.cb_5=create cb_5
 this.cb_3=create cb_3
@@ -920,7 +924,8 @@ this.proceso=create proceso
 this.cb_1=create cb_1
 this.muestraini=create muestraini
 this.muestrafin=create muestrafin
-this.Control[]={this.st_10,&
+this.Control[]={this.st_11,&
+this.st_10,&
 this.cb_5,&
 this.cb_3,&
 this.sle_2,&
@@ -951,6 +956,7 @@ this.muestrafin}
 end on
 
 on w_procesar_muestras.destroy
+destroy(this.st_11)
 destroy(this.st_10)
 destroy(this.cb_5)
 destroy(this.cb_3)
@@ -980,6 +986,24 @@ destroy(this.cb_1)
 destroy(this.muestraini)
 destroy(this.muestrafin)
 end on
+
+type st_11 from statictext within w_procesar_muestras
+integer x = 1573
+integer y = 28
+integer width = 873
+integer height = 156
+integer textsize = -16
+integer weight = 700
+fontcharset fontcharset = ansi!
+fontpitch fontpitch = variable!
+fontfamily fontfamily = swiss!
+string facename = "Arial"
+long textcolor = 33554432
+long backcolor = 67108864
+string text = "SOL 963"
+alignment alignment = center!
+boolean focusrectangle = false
+end type
 
 type st_10 from statictext within w_procesar_muestras
 integer x = 983
